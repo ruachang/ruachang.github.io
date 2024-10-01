@@ -24,10 +24,10 @@ author:
   name             : "Chang Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Illinois Urbana-Champaign"
-  location         : ""
+  location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pwYhtb0AAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=pwYhtb0AAAAJ"
   email            : "changl25@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "https://github.com/ruachang"
+  github           :  "ruachang"
   google_plus      :
   keybase          :
   instagram        : 
