@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chang Liu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "MENG @ UIUC
 repository               : "ruachang/ruachang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Chang Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Illinois Urbana-Champaign"
-  location         : "Champaign, America"
+  location         : ""
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pwYhtb0AAAAJ"
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           :  "https://github.com/ruachang"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/chang-liu-a67516275/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
