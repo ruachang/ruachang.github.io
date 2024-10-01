@@ -15,8 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div style="border: 2px solid #FF5733; background-color: #FFF3E0; padding: 10px; border-radius: 5px; text-align: center;">
-  <strong style="font-size: 18px;">🚀 Open to Opportunities</strong> <br>
+<!-- <div style="border: 2px solid #FF5733; background-color: #FFF3E0; padding: 10px; border-radius: 5px; text-align: center;"> -->
+<div style="border: 2px solid #007BFF; background-color: #E9F5FF; padding: 10px; border-radius: 5px; text-align: left; width: 100%;">
+  <strong style="font-size: 18px; color: #0056b3;">🚀 Open to Opportunities</strong> <br>
   I am actively looking for exciting roles in industry or PhD programs that align with my expertise in computer vision and diffusion models.
 </div>
 
@@ -39,17 +40,17 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/little_teaser.gif' alt="sym" width="100%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
-**Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Images**
-
-A. Cui,  J. Mahajan, V. Shah, P. Gomathinayagam, **C. Liu**, S. Lazebnik
-
-**WACV 2025** **CVFAD Workshop, CVPR, 2024**
-
-[**Project**](StreetTryOn/index.html) | [**Paper**](https://arxiv.org/pdf/2311.16094.pdf)
+  <div class='paper-box-text' markdown="1">
+  **Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Images**
+  
+  A. Cui,  J. Mahajan, V. Shah, P. Gomathinayagam, **C. Liu**, S. Lazebnik
+  
+  **WACV 2025** **CVFAD Workshop, CVPR, 2024**
+  
+  [**Project**](StreetTryOn/index.html) | [**Paper**](https://arxiv.org/pdf/2311.16094.pdf)
 
   </div>
 </div>
@@ -58,7 +59,7 @@ A. Cui,  J. Mahajan, V. Shah, P. Gomathinayagam, **C. Liu**, S. Lazebnik
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/img.png' alt="sym" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -69,7 +70,7 @@ A. Cui,  J. Mahajan, V. Shah, P. Gomathinayagam, **C. Liu**, S. Lazebnik
  
 **ICISC, 2023**
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10438238)
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10438238) | check
 
   </div>
 </div>
