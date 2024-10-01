@@ -43,7 +43,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
       <img src='images/little_teaser.gif' alt="sym" width="70%" >
     </div>
   </div>
-  <div class='paper-box-text' markdown="1" style="margin-left: 5px;">
+  <div class='paper-box-text' markdown="1">
     
   **Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Images**
   
@@ -65,7 +65,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
       <img src='images/img.png' alt="sym" width="70%" >
     </div>
   </div>
-<div class='paper-box-text' markdown="1" style="margin-left: 5px;">
+<div class='paper-box-text' markdown="1" >
   
 **A selective quantization approach for optimizing quantized inference engine**
 
