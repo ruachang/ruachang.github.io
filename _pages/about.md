@@ -36,11 +36,11 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 
 # 📝 Publications 
 
-<div class='paper-box'>
+<div class='paper-box' style="display: flex; align-items: flex-start; gap: 10px;">
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
-      <img src='images/little_teaser.gif' alt="sym" width="70%">
+      <img src='images/little_teaser.gif' alt="sym" width="70%" style="vertical-align: top;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1" style="margin-left: 10px;">
