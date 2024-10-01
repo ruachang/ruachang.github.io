@@ -40,15 +40,17 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
-      <img src='images/little_teaser.gif' alt="sym" width="60%">
+      <img src='images/little_teaser.gif' alt="sym" width="70%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1" style="margin-left: 10px;">
   **Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Images**
   
   A. Cui,  J. Mahajan, V. Shah, P. Gomathinayagam, **C. Liu**, S. Lazebnik
   
-  **WACV 2025** **CVFAD Workshop, CVPR, 2024**
+  **WACV 2025** 
+  
+  **CVFAD Workshop, CVPR, 2024**
   
   [**Project**](StreetTryOn/index.html) | [**Paper**](https://arxiv.org/pdf/2311.16094.pdf)
 
@@ -59,10 +61,10 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
-      <img src='images/img.png' alt="sym" width="60%">
+      <img src='images/img.png' alt="sym" width="70%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1" style="margin-left: 10px;">
   
 **A selective quantization approach for optimizing quantized inference engine**
 
