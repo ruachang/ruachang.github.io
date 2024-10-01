@@ -15,45 +15,74 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<div style="border: 2px solid #FF5733; background-color: #FFF3E0; padding: 10px; border-radius: 5px; text-align: center;">
+  <strong style="font-size: 18px;">🚀 Open to Opportunities</strong> <br>
+  I am actively looking for exciting roles in industry or PhD programs that align with my expertise in computer vision and diffusion models.
+</div>
+
+
 <span class='anchor' id='about-me'></span>
 
-I am Chang, a current Meng student of ECE department at UIUC. I am now conducting my research under guidance of Prof. [Svetlana Lazebnik](http://slazebni.cs.illinois.edu/). Before that, I received my B.S. degree in Sun Yat-sen University, where I worked with Prof. [Dong Zhang](https://seit.sysu.edu.cn/teacher/ZhangDong). 
+I am Chang, a current Master of Engineering (MEng) student of ECE department at UIUC. I am now conducting research under the guidance of Prof. [Svetlana Lazebnik](http://slazebni.cs.illinois.edu/). Before that, I earned my B.S. degree from Sun Yat-sen University, where I worked with Prof. [Dong Zhang](https://seit.sysu.edu.cn/teacher/ZhangDong). 
 
-My research insterst lies in **Computer Vision**, especially in diffuion models and now I am doing research about manipulations with diffusion models. I am also intersted in how to apply computer vision in more practical scenarios. 
+My research instersts focus on **Computer Vision**, particularly diffuion models, where I am currently working on image generation and manipulations with diffusion models. I am also intersted in applying computer vision solutions to real-world, practical scenarios.
 
-
+<!-- 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">CVPR 2016</div> -->
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
-
 **Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Images**
 
 A. Cui,  J. Mahajan, V. Shah, P. Gomathinayagam, **C. Liu**, S. Lazebnik
-**WACV 2025**
-**CVFAD Workshop, CVPR, 2024**
+
+**WACV 2025** **CVFAD Workshop, CVPR, 2024**
+
 [**Project**](StreetTryOn/index.html) | [**Paper**](https://arxiv.org/pdf/2311.16094.pdf)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+  </div>
+</div>
+  
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">CVPR 2016</div> -->
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
   
 **A selective quantization approach for optimizing quantized inference engine**
 
  **C. Liu**, Dong Zhang
+ 
 **ICISC, 2023**
+
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10438238)
+
+  </div>
+</div>
+
+# 📖 Educations
+- *2023.08 - 2014.12(expected)*, Master of Engineering of Electrical and Computer Engineering at University of Illinois Urbana Champaign.
+- *2019.06 - 2023.06 (now)*, Bacholor of Electrical information science and technology at Sun Yat-sen University.
+
+<!--
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -61,3 +90,5 @@ A. Cui,  J. Mahajan, V. Shah, P. Gomathinayagam, **C. Liu**, S. Lazebnik
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+  -->
