@@ -64,7 +64,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
       <img src='images/img.png' alt="sym" width="70%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1" style="margin-left: 10px;">
+<div class='paper-box-text' markdown="1" style="margin-left: 5px;">
   
 **A selective quantization approach for optimizing quantized inference engine**
 
