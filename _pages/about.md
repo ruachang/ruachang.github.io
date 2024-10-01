@@ -44,6 +44,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
     </div>
   </div>
   <div class='paper-box-text' markdown="1" style="margin-left: 5px;">
+    
   **Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Images**
   
   A. Cui,  J. Mahajan, V. Shah, P. Gomathinayagam, **C. Liu**, S. Lazebnik
