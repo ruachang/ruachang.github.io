@@ -40,7 +40,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
-      <img src='images/teaser.pdf' alt="sym" width="70%" >
+      <img src='images/unziplora_teaser.pdf' alt="sym" width="70%" >
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
