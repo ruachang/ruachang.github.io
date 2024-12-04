@@ -41,7 +41,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
       <img src='images/unziplora_teaser.png' alt="sym" width="70%" >
-    </div>
+    </div>  -->
 <!--  </div>
   <div class='paper-box-text' markdown="1">
     
