@@ -36,14 +36,16 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 
 # 📝 Publications 
 
-<!--<div class='paper-box' >
-  <div class='paper-box-image'>
-    <div>
+<!--<div class='paper-box' > 
+ <!-- 
+   <div class='paper-box-image'>
+   <!-- 
+      <div>
       <!-- <div class="badge">CVPR 2016</div> -->
       <img src='images/unziplora_teaser.png' alt="sym" width="70%" >
-    </div>  -->
-<!--  </div>
-  <div class='paper-box-text' markdown="1">
+      </div>  -->
+  <!-- </div> -->
+  <!-- <div class='paper-box-text' markdown="1">
     
   **UnZipLoRA: Separating Content and Style from a Single Image** 
 
@@ -51,8 +53,8 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 
   In submission **CVPR, 2025**
 
-  </div>
- </div> -->
+  </div> -->
+ <!-- </div> -->
 
 <div class='paper-box' >
   <div class='paper-box-image'>
