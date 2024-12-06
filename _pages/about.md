@@ -36,6 +36,25 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 
 # 📝 Publications 
 
+<div class='paper-box' > 
+  <div class='paper-box-image'>
+     <div>
+     <!-- <div class="badge">CVPR 2016</div> -->
+     <img src='images/unziplora_teaser.png' alt="sym" width="70%" >
+     </div> 
+  </div>
+  <div class='paper-box-text' markdown="1">
+   
+ **UnZipLoRA: Separating Content and Style from a Single Image** 
+
+ **C.Liu**, V. Shah, A. Cui, S. Lazebnik
+
+<!-- In submission **CVPR, 2025** -->
+  [**Project**](https://unziplora.github.io/) | [**Paper**](https://arxiv.org/pdf/2412.04465.pdf)
+  
+ </div>
+</div>
+
 <div class='paper-box' >
   <div class='paper-box-image'>
     <div>
