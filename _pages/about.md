@@ -18,7 +18,7 @@ redirect_from:
 <!-- <div style="border: 2px solid #FF5733; background-color: #FFF3E0; padding: 10px; border-radius: 5px; text-align: center;"> -->
 <div style="border: 2px solid #007BFF; background-color: #E9F5FF; padding: 10px; border-radius: 5px; text-align: left; width: 100%;">
   <strong style="font-size: 18px; color: #0056b3;">🚀 Open to Opportunities</strong> <br>
-  I am actively looking for exciting roles in industry or PhD programs that align with my experience in computer vision and diffusion models.
+  I am actively looking for exciting roles in industry that align with my experience in computer vision and diffusion models.
 </div>
 
 
@@ -99,8 +99,8 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 </div>
 
 # 📖 Educations
-- *2023.08 - 2024.12(expected)*, Master of Engineering in Electrical and Computer Engineering at University of Illinois Urbana Champaign.
-- *2019.06 - 2023.06, Bachelor of Engineering in Electronic information science and technology at Sun Yat-sen University.
+- *2023.08 - 2024.12*, Master of Engineering in Electrical and Computer Engineering at University of Illinois Urbana Champaign.
+- *2019.06 - 2023.06*, Bachelor of Engineering in Electronic information science and technology at Sun Yat-sen University.
 
 <!--
 
