@@ -39,7 +39,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 <div class='paper-box' > 
   <div class='paper-box-image'>
      <div>
-     <!-- <div class="badge">CVPR 2016</div> -->
+     <div class="badge">ICCV 2025</div>
      <img src='images/small_teaser.png' alt="sym" width="70%" >
      </div> 
   </div>
@@ -59,7 +59,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 <div class='paper-box' >
   <div class='paper-box-image'>
     <div>
-      <!-- <div class="badge">CVPR 2016</div> -->
+      <div class="badge">WACV 2025</div>
       <img src='images/little_teaser.gif' alt="sym" width="70%" >
     </div>
   </div>
