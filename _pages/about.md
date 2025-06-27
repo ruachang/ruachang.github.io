@@ -49,7 +49,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 
  **C.Liu**, V. Shah, A. Cui, S. Lazebnik
 
-<!-- In submission **CVPR, 2025** -->
+ **ICCV 2025** 
 
   [**Project**](https://unziplora.github.io/) | [**Paper**](https://arxiv.org/pdf/2412.04465.pdf)
   
