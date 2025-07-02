@@ -73,7 +73,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
   
   **CVFAD Workshop, CVPR, 2024**
   
-  [**Project**](StreetTryOn/index.html) | [**Paper**](https://arxiv.org/pdf/2311.16094.pdf)
+  [**Project**](https://cuiaiyu.github.io/StreetTryOn) | [**Paper**](https://arxiv.org/pdf/2311.16094.pdf)
 
   </div>
 </div>
