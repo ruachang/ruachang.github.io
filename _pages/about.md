@@ -18,15 +18,15 @@ redirect_from:
 <!-- <div style="border: 2px solid #FF5733; background-color: #FFF3E0; padding: 10px; border-radius: 5px; text-align: center;"> -->
 <div style="border: 2px solid #007BFF; background-color: #E9F5FF; padding: 10px; border-radius: 5px; text-align: left; width: 100%;">
   <strong style="font-size: 18px; color: #0056b3;">🚀 Open to Opportunities</strong> <br>
-  I am actively looking for exciting roles in industry that align with my experience in computer vision and diffusion models.
+  I am actively looking for internship opportunities in industry that align with my experience in computer vision and diffusion models.
 </div>
 
 
 <span class='anchor' id='about-me'></span>
 
-I am Chang, a current Master of Engineering (MEng) student of ECE department at UIUC. I am now conducting research under the guidance of Prof. [Svetlana Lazebnik](http://slazebni.cs.illinois.edu/). Before that, I earned my B.S. degree from Sun Yat-sen University, where I worked with Prof. [Dong Zhang](https://seit.sysu.edu.cn/teacher/ZhangDong). 
+I am Chang, a Ph.D. student of CS department at UIUC. I am now conducting research under the guidance of Prof. [Svetlana Lazebnik](http://slazebni.cs.illinois.edu/). Before that, I earned my my M.S. degree in Electrical and Computer Engineering from UIUC and my B.S. degree from Sun Yat-sen University, where I worked with Prof. [Dong Zhang](https://seit.sysu.edu.cn/teacher/ZhangDong). 
 
-My research instersts focus on **Computer Vision**, particularly diffuion models, where I am currently working on image generation and manipulations with diffusion models. I am also intersted in applying computer vision solutions to real-world, practical scenarios.
+My research instersts focus on **Computer Vision**, particularly diffuion models, where I am currently working on controllable image generation and manipulations with diffusion models. I am particularly interested in model personalization, and enabling fine-grained control in generative models.
 
 <!-- 
 # 🔥 News
@@ -49,7 +49,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 
  **C.Liu**, V. Shah, A. Cui, S. Lazebnik
 
- **ICCV 2025** 
+ **ICCV 2025 Highlight** 
 
   [**Project**](https://unziplora.github.io/) | [**Paper**](https://arxiv.org/pdf/2412.04465.pdf)
   
@@ -99,6 +99,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 </div>
 
 # 📖 Educations
+- *2025.08 - Present*, Ph.D. of Computer Science at University of Illinois Urbana Champaign.
 - *2023.08 - 2024.12*, Master of Engineering in Electrical and Computer Engineering at University of Illinois Urbana Champaign.
 - *2019.06 - 2023.06*, Bachelor of Engineering in Electronic information science and technology at Sun Yat-sen University.
 
