@@ -24,7 +24,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chang, a Ph.D. student of CS department at UIUC. I am now conducting research under the guidance of Prof. [Svetlana Lazebnik](http://slazebni.cs.illinois.edu/). Before that, I earned my my M.S. degree in Electrical and Computer Engineering from UIUC and my B.S. degree from Sun Yat-sen University, where I worked with Prof. [Dong Zhang](https://seit.sysu.edu.cn/teacher/ZhangDong). 
+I am Chang, a Ph.D. student of CS department at UIUC. I am now conducting research under the guidance of Prof. [Svetlana Lazebnik](http://slazebni.cs.illinois.edu/). Before that, I earned my M.S. degree in Electrical and Computer Engineering from UIUC and my B.S. degree from Sun Yat-sen University, where I worked with Prof. [Dong Zhang](https://seit.sysu.edu.cn/teacher/ZhangDong). 
 
 My research instersts focus on **Computer Vision**, particularly diffuion models, where I am currently working on controllable image generation and manipulations with diffusion models. I am particularly interested in model personalization, and enabling fine-grained control in generative models.
 
