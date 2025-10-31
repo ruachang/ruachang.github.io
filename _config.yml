@@ -24,6 +24,7 @@ author:
   name             : "Chang Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Illinois Urbana-Champaign"
+  cv               : "images/ChangLiu_cv_phd.pdf" # replace with your CV file path or URL
   location         : 
   employer         :
   pubmed           : 
