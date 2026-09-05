@@ -25,9 +25,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chang, a Ph.D. student of CS department at UIUC. I am now conducting research under the guidance of Prof. [Svetlana Lazebnik](http://slazebni.cs.illinois.edu/)<!-- and Prof. [Alexander Schwing](https://www.alexander-schwing.de/) -->. Before that, I earned my M.S. degree in Electrical and Computer Engineering from UIUC and my B.S. degree from Sun Yat-sen University, where I worked with Prof. [Dong Zhang](https://seit.sysu.edu.cn/teacher/ZhangDong). 
+I am Chang, a Ph.D. student in the CS department at UIUC. I am now conducting research under the guidance of Prof. [Svetlana Lazebnik](http://slazebni.cs.illinois.edu/) and Prof. [Alexander Schwing](https://www.alexander-schwing.de/). Before that, I earned my M.S. degree in Electrical and Computer Engineering from UIUC and my B.S. degree from Sun Yat-sen University, where I worked with Prof. [Dong Zhang](https://seit.sysu.edu.cn/teacher/ZhangDong). 
 
-My research instersts focus on **Computer Vision**, particularly diffuion models, where I am currently working on controllable image generation and manipulations with diffusion models. I am particularly interested in model personalization, and enabling fine-grained control in generative models.
+My research interests lie in **computer vision** and **generative models**. My earlier work centers on controllable image generation and manipulation with diffusion models, with a focus on model personalization and fine-grained, disentangled control. More recently, I have been working on multimodal generation, and I am also broadly interested in unified models. My research is generously supported by the [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 
 <!-- 
 # 🔥 News
@@ -41,7 +41,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">Preprint</div> -->
-      <img src='images/generate1_1.png' alt="sym" width="70%" >
+      <img src='images/readit_teasor.gif' alt="sym" width="70%" >
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -70,7 +70,7 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
    
  **UnZipLoRA: Separating Content and Style from a Single Image** 
 
- **C.Liu**, V. Shah, A. Cui, S. Lazebnik
+ **C. Liu**, V. Shah, A. Cui, S. Lazebnik
 
  **ICCV 2025 Highlight** 
 
@@ -126,6 +126,9 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 - *2023.08 - 2024.12*, Master of Engineering in Electrical and Computer Engineering at University of Illinois Urbana Champaign.
 - *2019.06 - 2023.06*, Bachelor of Engineering in Electronic information science and technology at Sun Yat-sen University.
 
+# 💻 Internships
+- *2026.05 - 2026.08*, Applied Scientist Intern, Amazon Prime Video — agentic image generation.
+
 <!--
 
 # 🎖 Honors and Awards
@@ -135,8 +138,5 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
   -->
