@@ -41,7 +41,7 @@ My research interests lie in **computer vision** and **generative models**. My e
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">Preprint</div> -->
-      <img src='images/readit_teasor.gif' alt="sym" width="70%" >
+      <img src='images/readit_teaser.gif' alt="sym" width="70%" >
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
