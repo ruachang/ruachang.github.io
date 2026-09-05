@@ -37,6 +37,28 @@ My research instersts focus on **Computer Vision**, particularly diffuion models
 
 # 📝 Publications 
 
+<div class='paper-box' >
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">Preprint</div> -->
+      <img src='images/generate1_1.png' alt="sym" width="70%" >
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+ **ReaDiT Guidance: Control for Image and Video Generation using Diffusion Transformer Features**
+
+ J. Mahajan\*, **C. Liu**\*, R. Makharov, V. Shah, A. Schwing, S. Lazebnik
+
+ **Preprint, 2026**
+
+ [**Project**](https://readit-official.github.io/) | [**Paper**]
+ <!-- (https://arxiv.org/pdf/2412.04465.pdf) -->
+
+ </div>
+</div>
+
+
 <div class='paper-box' > 
   <div class='paper-box-image'>
      <div>
