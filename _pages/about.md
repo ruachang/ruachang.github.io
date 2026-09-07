@@ -52,7 +52,7 @@ My research interests lie in **computer vision** and **generative models**. My e
 
  **Preprint, 2026**
 
- [**Project**](https://readit-official.github.io/) | [**Paper**](https://arxiv.org/abs/2609.04649)
+ [**Project**](https://readit-official.github.io/) \| [**Paper**](https://arxiv.org/abs/2609.04649)
 
  </div>
 </div>
@@ -73,7 +73,7 @@ My research interests lie in **computer vision** and **generative models**. My e
 
  **ICCV 2025 Highlight** 
 
-  [**Project**](https://unziplora.github.io/) | [**Paper**](https://arxiv.org/pdf/2412.04465.pdf)
+  [**Project**](https://unziplora.github.io/) \| [**Paper**](https://arxiv.org/pdf/2412.04465.pdf)
   
  </div>
 </div>
@@ -95,7 +95,7 @@ My research interests lie in **computer vision** and **generative models**. My e
   
   **CVFAD Workshop, CVPR, 2024**
   
-  [**Project**](https://cuiaiyu.github.io/StreetTryOn) | [**Paper**](https://arxiv.org/pdf/2311.16094.pdf)
+  [**Project**](https://cuiaiyu.github.io/StreetTryOn) \| [**Paper**](https://arxiv.org/pdf/2311.16094.pdf)
 
   </div>
 </div>
