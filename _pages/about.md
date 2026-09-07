@@ -52,8 +52,7 @@ My research interests lie in **computer vision** and **generative models**. My e
 
  **Preprint, 2026**
 
- [**Project**](https://readit-official.github.io/) | [**Paper**]
- <!-- (https://arxiv.org/pdf/2412.04465.pdf) -->
+ [**Project**](https://readit-official.github.io/) | [**Paper**](https://arxiv.org/abs/2609.04649)
 
  </div>
 </div>
